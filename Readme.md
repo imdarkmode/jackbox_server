@@ -10,7 +10,7 @@ Using this approach, we can provide a "Jackbox-like" game experience to connecte
 
 1) Clone this repository from Github:
 
-```git clone https://github.com/thedarkmode/jackbox_server```
+```git clone https://github.com/imdarkmode/jackbox_server```
 
 2) Install dependencies:
 
